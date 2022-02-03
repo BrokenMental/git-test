@@ -1,1 +1,1 @@
-alert("abc");
+console.log("1234");
